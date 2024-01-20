@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Koustav Bhowmick
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS
+Hi there, I'm Koustav Bhowmick 👋
+
+I'm a Developer, and Web Technology Enthusiastic!
+____
+🔭 I’m currently working on Java and ReactJS
+
 
 
 <!---
