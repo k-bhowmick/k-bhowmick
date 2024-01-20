@@ -1,7 +1,6 @@
 ## Hi there, I'm Koustav Bhowmick 👋
 
 I'm a Developer, and Web Technology Enthusiastic!
-____
 🔭 I’m currently working on Java and ReactJS
 
 
