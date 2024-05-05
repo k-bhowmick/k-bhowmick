@@ -1,7 +1,7 @@
 ## Hi there, I'm Koustav Bhowmick 👋
 
-I'm a Developer, and Web Technology Enthusiastic!  
-⚡ I’m currently working on Java and ReactJS
+I'm a Java Developer and Web Technology Enthusiastic!  
+⚡ I’m currently working on Javascript and ReactJS
 
 
 
